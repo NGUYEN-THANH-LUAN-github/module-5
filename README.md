@@ -1,5 +1,4 @@
-# module-5
+# David Chu's China Bistro - Coursera final project
 
-** NOTICE ** THIS REPOSITORY IS ONLY FOR HOSTING A GITHUB PAGE
+👉 [View Demo](https://thanh-luan-nguyen.github.io/China-Bistro/)
 
-PLEASE VIEW THE PARENT REPOSITORY [html-css-javascript-for-web-developers](https://github.com/NGUYEN-THANH-LUAN-github/html-css-javascript-for-web-developers)
